@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Sick Leave Policy",
+    "description": "Students may take up to 7 days of sick leave per semester with a medical certificate.",
+    "leave_type": "Sick Leave"
+  },
+  {
+    "title": "Casual Leave Policy",
+    "description": "Students are allowed 5 days of casual leave per academic year without needing documentation.",
+    "leave_type": "Casual Leave"
+  },
+  {
+    "title": "Medical Emergency Leave",
+    "description": "Extended leave can be granted in case of hospitalization with official medical records.",
+    "leave_type": "Medical Leave"
+  },
+  {
+    "title": "Family Emergency Leave",
+    "description": "Students may request up to 10 days of leave for family emergencies with proper documentation.",
+    "leave_type": "Emergency Leave"
+  },
+  {
+    "title": "Maternity Leave for Students",
+    "description": "Pregnant students may take up to 90 days of maternity leave with valid documentation.",
+    "leave_type": "Maternity Leave"
+  },
+  {
+    "title": "Paternity Leave",
+    "description": "Male students are entitled to 5 days of paternity leave within 15 days of childbirth.",
+    "leave_type": "Paternity Leave"
+  },
+  {
+    "title": "Religious Holiday Leave",
+    "description": "Up to 3 days of leave are granted for religious observances upon written request.",
+    "leave_type": "Religious Leave"
+  },
+  {
+    "title": "Grievance Leave",
+    "description": "Leave is granted for students facing psychological distress or personal loss, with counselor recommendation.",
+    "leave_type": "Grievance Leave"
+  },
+  {
+    "title": "Leave for Sports Events",
+    "description": "Students representing the school in sports can take leave for training and tournaments.",
+    "leave_type": "Sports Leave"
+  },
+  {
+    "title": "Leave for Cultural Events",
+    "description": "Participants in cultural or inter-college events can request leave for event duration.",
+    "leave_type": "Event Leave"
+  },
+  {
+    "title": "Study Leave Before Exams",
+    "description": "Up to 5 days of study leave allowed before semester exams.",
+    "leave_type": "Study Leave"
+  },
+  {
+    "title": "Internship Leave",
+    "description": "Leave is granted for approved internships that coincide with academic breaks.",
+    "leave_type": "Internship Leave"
+  },
+  {
+    "title": "Research Leave",
+    "description": "Students conducting external research can apply for research leave with approval.",
+    "leave_type": "Research Leave"
+  },
+  {
+    "title": "Leave of Absence",
+    "description": "A student can apply for a semester-long leave due to unavoidable circumstances.",
+    "leave_type": "Long-term Leave"
+  },
+  {
+    "title": "Marriage Leave",
+    "description": "Up to 7 days of leave can be granted for student marriage upon submission of invitation and proof.",
+    "leave_type": "Personal Leave"
+  },
+  {
+    "title": "Leave for Competitive Exams",
+    "description": "Students preparing for competitive exams can apply for up to 3 days of leave before the exam.",
+    "leave_type": "Exam Leave"
+  },
+  {
+    "title": "Leave During Natural Disasters",
+    "description": "Special leave may be granted during floods, earthquakes, or other calamities.",
+    "leave_type": "Disaster Leave"
+  },
+  {
+    "title": "Leave for Volunteering Activities",
+    "description": "Students involved in community service projects can apply for up to 4 days of leave.",
+    "leave_type": "Service Leave"
+  },
+  {
+    "title": "Academic Conference Leave",
+    "description": "Students presenting papers in conferences are allowed leave with proof of acceptance.",
+    "leave_type": "Academic Leave"
+  },
+  {
+    "title": "Leave for Visa or Passport Processing",
+    "description": "Students applying for study abroad or internships may get 2 days leave for document processing.",
+    "leave_type": "Administrative Leave"
+  }
+]
