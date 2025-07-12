@@ -109,7 +109,7 @@ def initialize_chain():
     retriever.add_documents(docs)
 
     prompt_template = """
-You are an intelligent assistant designed to answer questions related to an organization's leave policies. Use the provided context from the company's official leave policy documents to generate accurate, concise, and helpful answers.
+You are an intelligent assistant designed to answer questions related to an School or College leave policies. Use the provided context from the company's official leave policy documents to generate accurate, concise, and helpful answers.
 
 Context:
 {context}
